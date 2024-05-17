@@ -2,7 +2,6 @@
 
 BluetoothSerial SerialBT;
 
-
 const int OUT_1 = 2;    // Pino do OUT 1 (GPIO 2)
 const int OUT_2 = 4;    // Pino do OUT 2 (GPIO 4)
 const int OUT_3 = 5;    // Pino do OUT 3 (GPIO 5)
