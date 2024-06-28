@@ -10,9 +10,11 @@
 ## Software Demonstration
 <div align="center">
   <video src="https://github.com/andresima0/ESP-Pedal/assets/111400782/5dc937ab-4dac-4efc-8266-a585ba58c51c"
-    alt="ESP-Pedal" width="20">
+    alt="ESP-Pedal">
 </div>
 
-## And everything working together...
-
-
+## And everything working together...Turn up the volume!
+<div align="center">
+  <video src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f"
+    alt="ESP-Pedal">
+</div>
