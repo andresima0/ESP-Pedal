@@ -26,3 +26,5 @@ The ESP Pedal is an Overdrive, a mild distortion tailored for electric guitars, 
   <video src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f"
     alt="ESP-Pedal">
 </div>
+
+Full version in: https://www.youtube.com/watch?v=V8-tXVisoBw
